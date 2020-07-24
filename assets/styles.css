@@ -1,1 +1,13 @@
 /* Apple Clone Website Styles */
+
+/* CSS RESET */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.hero {
+    min-height: 60vh;
+    width: 100vw;
+    background: red;
+}
