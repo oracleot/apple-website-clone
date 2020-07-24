@@ -6,8 +6,26 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.container {
+  width: 85%;
+  margin: auto;
+}
+
 .hero {
-    min-height: 60vh;
-    width: 100vw;
-    background: red;
+    min-height: 68vh;
+    background-image: url('./images/your_verse_hero.jpg');
+    background-repeat: no-repeat;
+    background-position: 50% 100%;
+    background-size: cover;
+}
+
+.products {
+  min-height: 22vh;
+  background-color: yellow;
+}
+
+.footer {
+  min-height: 10vh;
+  background-color: red;
 }
