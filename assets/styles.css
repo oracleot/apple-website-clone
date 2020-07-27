@@ -49,12 +49,12 @@ h3 {
 
 .hero-main {
   text-align: center;
-  padding-top: 150px;
+  padding-top: 100px;
 }
 
 .nav-items {
   width: 900px;
-  margin: auto;
+  margin: 0 auto;
   align-items: center;
   justify-content: center;
   border-radius: 12px;
@@ -132,7 +132,6 @@ form input:focus + span {
 
 .fa.fa-play-circle{
   font-size: 40px;
-  opacity: 0.4;
 }
 
 /* Products section */
