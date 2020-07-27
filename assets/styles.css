@@ -116,6 +116,11 @@ h3 {
   margin: 20px auto;
 }
 
+.fa.fa-play-circle{
+  font-size: 40px; 
+  opacity: 0.4;
+}
+
 .products {
   min-height: 22vh;
   background-color: yellow;
