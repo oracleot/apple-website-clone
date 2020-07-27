@@ -121,9 +121,14 @@ h3 {
   opacity: 0.4;
 }
 
+/* Products section */
+
 .products {
   min-height: 22vh;
-  background-color: yellow;
+}
+
+.product {
+  width:100%;
 }
 
 .footer {
