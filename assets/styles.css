@@ -49,7 +49,7 @@ h3 {
 
 .hero-main {
   text-align: center;
-  padding-top: 100px;
+  padding-top: 40px;
 }
 
 .nav-items {
@@ -61,7 +61,7 @@ h3 {
   padding: 0 10px;
   position: relative;
   text-align: center;
-  top: 17vh;
+  top: 3vh;
   background: rgb(144,144,144);
   background: linear-gradient(180deg, rgba(144,144,144,1) 0%, rgba(51,51,51,1) 50%, rgba(133,133,133,1) 82%);
 }
