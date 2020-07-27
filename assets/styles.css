@@ -34,7 +34,9 @@
   padding-top: 100px;
 }
 
-
+h3 {
+  margin-left: 420px;
+}
 
 .products {
   min-height: 22vh;
