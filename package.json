@@ -1,0 +1,27 @@
+{
+  "name": "apple-website-clone",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "index.js",
+  "dependencies": {
+    "hint": "^6.0.6",
+    "stylelint-csstree-validator": "^1.8.0",
+    "stylelint": "^13.3.3",
+    "stylelint-config-standard": "^20.0.0",
+    "stylelint-scss": "^3.17.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oracleot/apple-website-clone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oracleot/apple-website-clone/issues"
+  },
+  "homepage": "https://github.com/oracleot/apple-website-clone#readme"
+}
