@@ -50,6 +50,10 @@ h3 {
   grid-template-columns: repeat(4, 1fr);
 }
 
+.push-up {
+  margin-top: -15px;
+}
+
 .color-white {
   color: #fff;
 }

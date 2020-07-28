@@ -5,7 +5,7 @@
 > HTML/CSS3 4th Project on Building with Backgrounds and Gradients.
 > The project focuses on Best CSS practices by learning CSS layouts.
 
-![Screenshot](https://user-images.githubusercontent.com/43843720/88576473-2b421900-d04e-11ea-9594-c42f2fc177db.png)
+![Screenshot](./app_screenshot.png)
 
 This project is a clone of the old Apple website with the features highlighted below:
 
