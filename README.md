@@ -2,11 +2,18 @@
 
 # Apple Clone
 
-> HTML/CSS3 4th Project on Building with Backgrounds and Gradients. 
+> HTML/CSS3 4th Project on Building with Backgrounds and Gradients.
 > The project focuses on Best CSS practices by learning CSS layouts.
 
-
 ![Screenshot](https://user-images.githubusercontent.com/43843720/88576473-2b421900-d04e-11ea-9594-c42f2fc177db.png)
+
+This project is a clone of the old Apple website with the features highlighted below:
+
+- A navigation bar with a gradient background containing the logo, menu items and a search bar
+- An hero image spanning the entire header section
+- Two big titles showing with hyperlinks including a video link
+- A product section created with flex
+- A footer with links to other pages
 
 ## Built With
 
@@ -32,4 +39,3 @@ Feel free to check the [issues page](https://github.com/oracleot/apple-website-c
 ## 📝 License
 
 This project is [MIT](lic.url) licensed.
-
