@@ -1,75 +1,40 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+![](https://img.shields.io/badge/author1-oracleot-green) ![](https://img.shields.io/badge/author2-IjayAbby-blue)  ![](https://img.shields.io/badge/project-appleclone-orange)
 
-# Project Name
+# Apple Clone
 
-> One paragraph statement about the project.
+> HTML/CSS3 4th Project on Building with Backgrounds and Gradients.
+> The project focuses on Best CSS practices by learning CSS layouts.
 
-![screenshot](./app_screenshot.png)
+![Screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
+This project is a clone of the old Apple website with the features highlighted below:
+
+- A navigation bar with a gradient background containing the logo, menu items and a search bar
+- An hero image spanning the entire header section
+- Two big titles showing with hyperlinks including a video link
+- A product section created with flex
+- A footer with links to other pages
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML5
+- CSS3
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+[Apple clone](https://raw.githack.com/oracleot/apple-website-clone/develop/index.html)
 
 ## Authors
 
-👤 **Author1**
+- 👤 [@oracleot](https://github.com/oracleot)
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
-
-👤 **Author2**
-
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- 👤 [@IjayAbby](https://github.com/IjayAbby)
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+Feel free to check the [issues page](https://github.com/oracleot/apple-website-clone/issues).
 
 ## 📝 License
 
