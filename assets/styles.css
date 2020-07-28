@@ -1,5 +1,7 @@
 /* Apple Clone Website Styles */
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400&display=swap');
+
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400&display=swap");
+
 /* CSS RESET */
 
 * {
@@ -18,6 +20,10 @@ a:hover {
 
 ul {
   list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  align-items: center;
 }
 
 h3 {
@@ -28,7 +34,7 @@ h3 {
   width: 100%;
   max-width: 1440px;
   margin: auto;
-  font-family: 'Lato', sans-serif;
+  font-family: "Lato", sans-serif;
 }
 
 .flex {
@@ -36,15 +42,15 @@ h3 {
 }
 
 .color-white {
-  color: #fff
+  color: #fff;
 }
 
 .hero {
-    min-height: 77vh;
-    background-image: url('./images/your_verse_hero.jpg');
-    background-repeat: no-repeat;
-    background-position: 50% 100%;
-    background-size: 1440px 1315px;
+  min-height: 77vh;
+  background-image: url("./images/your_verse_hero.jpg");
+  background-repeat: no-repeat;
+  background-position: 50% 100%;
+  background-size: 1440px 1315px;
 }
 
 .hero-main {
@@ -62,8 +68,14 @@ h3 {
   position: relative;
   text-align: center;
   top: 3vh;
-  background: rgb(144,144,144);
-  background: linear-gradient(180deg, rgba(144,144,144,1) 0%, rgba(51,51,51,1) 50%, rgba(133,133,133,1) 82%);
+  background: rgb(144, 144, 144);
+  background:
+    linear-gradient(
+      180deg,
+      rgba(144, 144, 144, 1) 0%,
+      rgba(51, 51, 51, 1) 50%,
+      rgba(133, 133, 133, 1) 82%
+    );
 }
 
 .nav-item {
@@ -72,9 +84,15 @@ h3 {
   font-size: 14px;
   flex: 1;
   text-align: center;
-  background: rgb(144,144,144);
-  background: linear-gradient(180deg, rgba(144,144,144,1) 0%, rgba(51,51,51,1) 50%, rgba(133,133,133,1) 82%);
-  border-right: solid thin rgba(255,255,255,0.15);
+  background: rgb(144, 144, 144);
+  background:
+    linear-gradient(
+      180deg,
+      rgba(144, 144, 144, 1) 0%,
+      rgba(51, 51, 51, 1) 50%,
+      rgba(133, 133, 133, 1) 82%
+    );
+  border-right: solid thin rgba(255, 255, 255, 0.15);
   padding: 0 10px;
 }
 
@@ -97,8 +115,14 @@ h3 {
 
 .nav-link:hover {
   cursor: pointer;
-  background: rgb(103,102,102);
-  background: linear-gradient(180deg, rgba(103,102,102,1) 0%, rgba(51,51,51,1) 50%, rgba(88,88,88,1) 82%);
+  background: rgb(103, 102, 102);
+  background:
+    linear-gradient(
+      180deg,
+      rgba(103, 102, 102, 1) 0%,
+      rgba(51, 51, 51, 1) 50%,
+      rgba(88, 88, 88, 1) 82%
+    );
 }
 
 form {
@@ -130,7 +154,7 @@ form input:focus + span {
   color: #333;
 }
 
-.fa.fa-play-circle{
+.fa.fa-play-circle {
   font-size: 40px;
 }
 
@@ -141,7 +165,7 @@ form input:focus + span {
 }
 
 .product {
-  width:100%;
+  width: 100%;
 }
 
 /* footer section */
@@ -149,13 +173,6 @@ form input:focus + span {
   width: 960px;
   margin: 15px auto;
   font-size: 11px;
-}
-
-ul {
-  margin: 0;
-  padding: 0;
-  width: 100%;
-  align-items: center;
 }
 
 ul li {
